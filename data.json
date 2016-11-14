@@ -1,0 +1,96 @@
+{
+    "论坛/博客": [{
+        "name": "博客园",
+        "url": "http://www.cnblogs.com/"
+    }, {
+        "name": "CSDN",
+        "url": "http://www.csdn.net/"
+    }, {
+        "name": "stackoverflow",
+        "url": "http://stackoverflow.com/"
+    }, {
+        "name": "廖雪峰的官方网站",
+        "url": "http://www.liaoxuefeng.com/"
+    }, {
+        "name": "吾爱破解",
+        "url": "http://www.52pojie.cn/"
+    }, {
+        "name": "看雪学院",
+        "url": "http://bbs.pediy.com/"
+    }, {
+        "name": "掘金",
+        "url": "http://gold.xitu.io/welcome/frontend"
+    }],
+
+
+    "常用工具": [{
+            "name": "tinypng",
+            "url": "https://tinypng.com/"
+        }, {
+            "name": "HTML特殊转义字符对照表",
+            "url": "http://tool.oschina.net/commons?type=2"
+        }, {
+            "name": "菜鸟教程",
+            "url": "http://www.runoob.com/"
+        }, {
+            "name": "regexper",
+            "url": "https://regexper.com/"
+        }, {
+            "name": "w3school",
+            "url": "http://www.w3school.com.cn/"
+        },
+
+    ],
+    "学习": [{
+
+            "name": "慕课网",
+            "url": "http://www.imooc.com"
+        }, {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+
+        {
+            "name": "thinkster",
+            "url": "https://thinkster.io"
+        }, {
+            "name": "freecodecamp",
+            "url": "https://freecodecamp.cn"
+        }, {
+            "name": "codepen",
+            "url": "https://codepen.io/"
+        }, {
+            "name": "youtube",
+            "url": "https://www.youtube.com/"
+        },
+
+    ],
+    "常用API": [
+
+        {
+            "name": "MDN",
+            "url": "https://developer.mozilla.org/en-US/"
+        }, {
+            "name": "animate.css",
+            "url": "https://daneden.github.io/animate.css/"
+        }, {
+            "name": "angularjs",
+            "url": "https://angularjs.org/"
+        }, {
+            "name": "ionic",
+            "url": "http://ionicframework.com/"
+        }, {
+            "name": "requirejs",
+            "url": "http://requirejs.org/"
+        },
+        {
+           "name": "jquery",
+           "url": "http://jquery.cuishifeng.cn/"
+       } ,{
+           "name": "jquery插件库",
+           "url": "http://www.jq22.com/"
+       },
+
+
+    ]
+}
